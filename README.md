@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/timeshop)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/timeshop?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/timeshop?style=social)
+  ![GitHub repo size](https://github.com/priyankasharma1603)
+  ![GitHub stars](https://github.com/priyankasharma1603)
+  ![GitHub forks](https://github.com/priyankasharma1603)
 
   <br />
 
@@ -10,7 +10,7 @@
 
   TimeShop is fully responsive ecommerce website made using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/timeshop/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/priyankasharma1603"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -68,13 +68,13 @@ To run **TimeShop** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/timeshop.git
+https://github.com/priyankasharma1603/Watch-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/timeshop.git
+https://github.com/priyankasharma1603/Watch-Website.git
 ```
 
 ### Contact
