@@ -6,7 +6,7 @@
 
   TimeShop is fully responsive ecommerce website made using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/priyankasharma1603"><strong>➥ Live Demo</strong></a>
+  <a href="https://watch-website-livid.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
