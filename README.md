@@ -1,9 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://github.com/priyankasharma1603)
-  ![GitHub stars](https://github.com/priyankasharma1603)
-  ![GitHub forks](https://github.com/priyankasharma1603)
-
+ 
   <br />
 
   <h2 align="center">Responsive Ecommerce Website</h2>
